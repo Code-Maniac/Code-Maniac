@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Code-Maniac
 - 👀 I’m interested in ... Automating everything
-- 🌱 I’m currently learning ... Rust, PyTorch
+- 🌱 I’m currently learning ... Rust
 - 💞️ I’m looking to collaborate on ... Nothing currently
 - 📫 How to reach me ... Email: jaycock.n@gmail.com
 
